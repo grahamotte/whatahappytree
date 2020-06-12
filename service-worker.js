@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/whatahappytree/precache-manifest.59d3ed87bae908ec20a2329167bf5dd1.js"
+  "/whatahappytree/precache-manifest.7787ee39a48a2ddf0b32d456befd6ed3.js"
 );
 
 self.addEventListener('message', (event) => {
